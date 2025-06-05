@@ -12,4 +12,3 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 # Here is a new update by manvanth manu
 print("random")
-# Here is another update by <your GitHub username>
